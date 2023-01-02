@@ -12,6 +12,18 @@ This is the iOs Application Implementation of HOF2, short of 2-Finger Hand-Over-
 
 The prototype of this application is available
 
+## Useful Resources
+To get started, please check Swift Language Guide at https://docs.swift.org/swift-book/index.html
+
+Then you could refer to the Apple's Developer Guide at:
+* https://developer.apple.com/tutorials/sample-apps
+* https://developer.apple.com/tutorials/swiftui
+* https://developer.apple.com/tutorials/app-dev-training
+
+And we recommend you to pay special attention to:
+* https://developer.apple.com/tutorials/sample-apps/capturingphotos-camerapreview
+* https://developer.apple.com/tutorials/sample-apps/getstartedwithmachinelearning-debugmlmodel
+
 ## TODO
 
 > Tracking the progress of project
