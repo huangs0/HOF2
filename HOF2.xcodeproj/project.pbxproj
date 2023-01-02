@@ -45,6 +45,7 @@
 		C1665DEA2962AE78009546AD /* HOF2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HOF2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1665DEE2962AE78009546AD /* HOF2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HOF2UITests.swift; sourceTree = "<group>"; };
 		C1665DF02962AE78009546AD /* HOF2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HOF2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C1665DFE2962B1ED009546AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		C1665DC62962AE76009546AD = {
 			isa = PBXGroup;
 			children = (
+				C1665DFE2962B1ED009546AD /* README.md */,
 				C1665DD12962AE76009546AD /* HOF2 */,
 				C1665DE32962AE78009546AD /* HOF2Tests */,
 				C1665DED2962AE78009546AD /* HOF2UITests */,
