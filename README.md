@@ -1,8 +1,11 @@
 # HOF2 Application :rofl:
 
 > No copyright
+>
 > Authors: Huang Songlin, Huang Haoyu, Wu Chenshu
+>
 > Institution: AIoT Lab, the University of Hong Kong
+>
 > Contact: huangs0@hku.hk
 
 This is the iOs Application Implementation of HOF2, short of 2-Finger Hand-Over-Face.
