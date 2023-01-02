@@ -14,19 +14,19 @@ The prototype of this application is available
 > Tracking the progress of project
 
 ### Core Components
-[ ] - CoreML Model Loader & Inference
-[ ] - Camera Frame Loader
-[ ] - Camera Displayer
+- [ ] CoreML Model Loader & Inference
+- [ ] Camera Frame Loader
+- [ ] Camera Displayer
 
 ### Elderly Version
 Top priority
-[ ] - UI Design
-[ ] - :thinking:
+- [ ] UI Design
+- [ ] :thinking:
 
 ### Test Version
 Top priority
-[ ] - UI Design
-[ ] - :thinking:
+- [ ] UI Design
+- [ ] :thinking:
 
 ### Rich Version
 will do after **Elderly Version** and **Test Version**
